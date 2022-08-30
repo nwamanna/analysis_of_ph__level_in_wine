@@ -3,3 +3,6 @@ this is a read me of the recent analysis i carried out on the ph levels of red w
 i wanted to check if everything Sammie said about git is true, so i will push this to my git.git
 watch this
 now
+so it didnt work because i didnt write git commit -m ''
+i remembered and i did.
+so here we are.
